@@ -1,0 +1,8 @@
+build/
+.gradle/
+.idea/
+*.iml
+local.properties
+*.keystore
+*.jks
+hs_err_pid*.log

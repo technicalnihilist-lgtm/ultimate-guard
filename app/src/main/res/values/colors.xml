@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#0B1218</color>
+    <color name="card">#131E26</color>
+    <color name="card_alt">#18262F</color>
+    <color name="stroke">#22333F</color>
+    <color name="accent">#34D399</color>
+    <color name="accent_dark">#0E3B2C</color>
+    <color name="danger">#F87171</color>
+    <color name="text">#E8EEF4</color>
+    <color name="muted">#93A4B3</color>
+    <color name="on_accent">#062018</color>
+    <color name="ic_launcher_background">#0B1218</color>
+</resources>

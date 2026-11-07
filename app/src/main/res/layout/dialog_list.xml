@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="18dp">
+
+    <EditText
+        android:id="@+id/dialogInput"
+        style="@style/GuardInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="domain.com"
+        android:importantForAutofill="no"
+        android:inputType="textUri"
+        android:maxLines="1" />
+
+    <ListView
+        android:id="@+id/dialogList"
+        android:layout_width="match_parent"
+        android:layout_height="260dp"
+        android:layout_marginTop="10dp"
+        android:divider="@color/stroke"
+        android:dividerHeight="1dp" />
+
+    <TextView
+        android:id="@+id/dialogEmpty"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Nothing here yet."
+        android:textColor="@color/muted"
+        android:textSize="13sp"
+        android:visibility="gone" />
+</LinearLayout>
