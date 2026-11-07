@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/technicalnihilist-lgtm/ultimate-guard/main/docs/icon.png" width="84" align="right" alt="Ultimate Guard icon">
+
 # Ultimate Guard 1.0
 
 An offline DNS filter for Android. It answers blocked domains locally so the
@@ -5,10 +7,10 @@ app or site never resolves, and forwards everything else to the resolver you
 choose. Optional Device Owner support lets it suspend apps as well.
 
 <p align="center">
-  <img src="docs/screenshots/status.png" width="200" alt="Status screen">
-  <img src="docs/screenshots/apps.png" width="200" alt="Apps screen">
-  <img src="docs/screenshots/domains.png" width="200" alt="Domains screen">
-  <img src="docs/screenshots/settings.png" width="200" alt="Settings screen">
+  <img src="https://raw.githubusercontent.com/technicalnihilist-lgtm/ultimate-guard/main/docs/screenshots/status.png" width="200" alt="Status screen">
+  <img src="https://raw.githubusercontent.com/technicalnihilist-lgtm/ultimate-guard/main/docs/screenshots/apps.png" width="200" alt="Apps screen">
+  <img src="https://raw.githubusercontent.com/technicalnihilist-lgtm/ultimate-guard/main/docs/screenshots/domains.png" width="200" alt="Domains screen">
+  <img src="https://raw.githubusercontent.com/technicalnihilist-lgtm/ultimate-guard/main/docs/screenshots/settings.png" width="200" alt="Settings screen">
 </p>
 
 **[⬇ Download the signed APK](https://github.com/technicalnihilist-lgtm/ultimate-guard/releases/latest)** · `dist/UltimateGuard-1.0.0.apk` is also in the repo.
