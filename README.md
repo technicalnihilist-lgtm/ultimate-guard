@@ -141,3 +141,17 @@ Kotlin compiler and Android SDK 35 in `PATH`/`ANDROID_HOME`; runs aapt2 → java
 - Nothing here survives a factory reset, and someone with recovery or ADB
   access can bypass it. This is a self-control and family-safety tool, not
   tamper-proof lockdown.
+
+---
+
+## ☕ Donate / Buy me a coffee
+
+**Coming soon** — our donation options are on the way.
+
+| Platform | Status |
+| --- | --- |
+| Paytm | Coming soon |
+| PayPal | Coming soon |
+| GPay (Google Pay) | Coming soon |
+
+If you like our work, you can support us with a donation. We are bringing this very soon — **coming soon**.
